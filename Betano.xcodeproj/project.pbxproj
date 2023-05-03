@@ -19,7 +19,6 @@
 		DD5D232929FC172B00E37D14 /* Fetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D232829FC172B00E37D14 /* Fetch.swift */; };
 		DD5D232B29FD5B1C00E37D14 /* WindowMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D232A29FD5B1C00E37D14 /* WindowMatch.swift */; };
 		DD5D23332A0046B600E37D14 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D23322A0046B600E37D14 /* User.swift */; };
-		DD5D23372A013ED500E37D14 /* Counter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D23362A013ED500E37D14 /* Counter.swift */; };
 		DD5D23392A014BD800E37D14 /* CountdownTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5D23382A014BD800E37D14 /* CountdownTimer.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +36,6 @@
 		DD5D232829FC172B00E37D14 /* Fetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetch.swift; sourceTree = "<group>"; };
 		DD5D232A29FD5B1C00E37D14 /* WindowMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowMatch.swift; sourceTree = "<group>"; };
 		DD5D23322A0046B600E37D14 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		DD5D23362A013ED500E37D14 /* Counter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counter.swift; sourceTree = "<group>"; };
 		DD5D23382A014BD800E37D14 /* CountdownTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountdownTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,7 +106,6 @@
 				DD5D232629FC03C100E37D14 /* ViewModel.swift */,
 				DD5D232829FC172B00E37D14 /* Fetch.swift */,
 				DD5D23322A0046B600E37D14 /* User.swift */,
-				DD5D23362A013ED500E37D14 /* Counter.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -186,7 +183,6 @@
 				DD5D232929FC172B00E37D14 /* Fetch.swift in Sources */,
 				DD5D23392A014BD800E37D14 /* CountdownTimer.swift in Sources */,
 				DD5D232529FC033E00E37D14 /* SportModel.swift in Sources */,
-				DD5D23372A013ED500E37D14 /* Counter.swift in Sources */,
 				DD5D232329FBED9B00E37D14 /* MainPage.swift in Sources */,
 				DD5D231729FBEC3A00E37D14 /* Betano.xcdatamodeld in Sources */,
 				DD5D231429FBEC3A00E37D14 /* Persistence.swift in Sources */,

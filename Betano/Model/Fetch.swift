@@ -30,10 +30,7 @@ func fetchSports1(completion: @escaping ([Sport]?, Error?) -> Void) {
                 completion(nil, error)
                 return
             }
-            
-            // Handle the response data here
-            // For example, you can decode the JSON response
-            // using `JSONDecoder`
+ 
             do {
                 let decoder = JSONDecoder()
                 let sports = try decoder.decode([Sport].self, from: data)
